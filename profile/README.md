@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://srvd.ai/images/widelogo.png" />
+  <img src="https://github.com/srvd-ai/.github/assets/images/roundedwidelogo.png" />
 </p>
 
 <h2 align="center">
